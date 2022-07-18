@@ -1,4 +1,4 @@
-👋 Hey, I’m @CM1kc1c
+👋 Hey, I’m Cole Miklaucic
 
 I’m currently studying Computer Engineering at Queens University.
 I've done some research in Web Developement and Game Developement.
